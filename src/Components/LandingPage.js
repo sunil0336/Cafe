@@ -15,7 +15,7 @@ function LandingPage() {
                 className="bg-[url('./wood.jpg')] bg-cover bg-center h-screen flex items-center"
             >
                 <div className="container mx-auto text-center text-white" style={{ textShadow: '3px 3px 4px rgba(0, 0, 0, 0.8)' }}>
-                    <h2 className="text-5xl font-bold mb-4" >Welcome to Woodland Cafe</h2>
+                    <h2 className="text-5xl font-bold mb-4" >Welcome to Cafe</h2>
                     <p className="text-xl mb-8">Experience nature's comfort in every cup</p>
                     <a
                         href="#menu"
@@ -35,9 +35,9 @@ function LandingPage() {
                         <img src={cup} alt="Cafe Interior" className="rounded-lg shadow-md" />
                     </div>
                     <div className="md:w-1/2 md:pl-12">
-                        <h2 className="text-4xl font-bold mb-6 text-amber-900">About Woodland Cafe</h2>
+                        <h2 className="text-4xl font-bold mb-6 text-amber-900">About Cafe</h2>
                         <p className="text-gray-700 mb-4">
-                            Nestled in the heart of the city, Woodland Cafe brings the serenity of nature to your coffee
+                            Nestled in the heart of the city, Cafe brings the serenity of nature to your coffee
                             experience. Our rustic ambiance and carefully crafted beverages offer a retreat from the urban
                             hustle.
                         </p>
